@@ -8,3 +8,4 @@
 ```html
 <link rel="stylesheet" href="/fontawesome/{{ version }}/css/fontawesome.all.css" />
 ```
+You can find icons from [this site](https://fontawesome.com/icons)
